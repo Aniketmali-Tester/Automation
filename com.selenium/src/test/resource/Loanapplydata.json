@@ -1,0 +1,18 @@
+[
+  {
+    "loanamount": "5000",
+    "downpayment": "2000",
+    "FromAccount": "12345"
+  },
+
+
+  {
+    "loanamount": "10000",
+    "downpayment": "5000",
+    "FromAccount": "13345"
+
+  }
+
+
+
+]

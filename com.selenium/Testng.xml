@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Testcases">
+
+    <test name="Verify tile">
+
+
+        <classes>
+            <class name="TestNg.HardAssertion"/>
+            <class name="TestNg.SoftAssertion"/>
+
+
+        </classes>
+
+    </test>
+
+</suite>
